@@ -5,7 +5,7 @@ A Discord chatbot based on characters from Genshin Impact that utilizes g4f and 
 一款基于《原神》角色的Discord聊天机器人，利用g4f和VITS生成聊天响应以及角色的声音。目前只支持中文语音线因为我从网上别人那里偷来了训练过的语音模型，将我的肾脏保留给了iPhone而不是最新的NVIDIA显卡。
 
 ## Demo
-![](https://github.com/Sodiumchloridy/hutao-voice/assets/67376832/c0c48596-8f43-4f84-8772-f7d8146fe4e8)
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/67376832/277171484-c0c48596-8f43-4f84-8772-f7d8146fe4e8.mp4)
 
 ## Getting Started
 
