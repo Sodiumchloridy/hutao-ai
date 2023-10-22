@@ -6,6 +6,11 @@ A Discord chatbot based on characters from Genshin Impact that utilizes g4f and 
 
 ## Demo
 
+Note: Kindly turn up the volume for best experience.
+
+注意：为获得最佳体验，请将音量调高。
+
+
 https://github-production-user-asset-6210df.s3.amazonaws.com/67376832/277171484-c0c48596-8f43-4f84-8772-f7d8146fe4e8.mp4
 
 ## Getting Started
