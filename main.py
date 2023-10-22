@@ -18,7 +18,7 @@ import g4f
 
 # Config
 speaker = '胡桃' # Choose from NPC List Below
-client_secret = 'MTAyODE3MjYxNjg2OTEwMTU3OQ.Gkmsbq.u9b04vLYl1OU_uSXUfbgSXrIkMHGRqBFYPfjbs'
+client_secret = 'YOUR_DICORD_BOT_TOKEN' #Your Discord Bot Token
 model_path = './model/G_809000.pth'
 output_path = "./output.mp3"
 
