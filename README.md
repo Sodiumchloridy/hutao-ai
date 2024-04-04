@@ -17,7 +17,7 @@ https://github-production-user-asset-6210df.s3.amazonaws.com/67376832/277171484-
 
 Clone and setup hutao-voice with pip. Python 3.8 is required, or Miniconda 3 for Python 3.8.
 
-克隆和使用 pip 设置 Hutao Voice。需要 Python 3.8 或 Miniconda 3 以支持 Python 3.8。
+下载和使用 pip 设置 Hutao Voice。需要 Python 3.8 或 Miniconda 3 for Python 3.8。
 
 
 ```bash
