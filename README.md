@@ -1,8 +1,8 @@
 
 # Hutao Voice
-A Discord chatbot based on characters from Genshin Impact that utilizes g4f and VITS to generate chat responses along with the character's voice. Currently only supports Chinese voicelines because I stole the trained voice model from someone else on the web, reserved my kidney for the iPhone instead of the latest NVIDIA graphics card.
+A Discord chatbot based on characters from Genshin Impact that utilizes g4f and VITS to generate chat responses along with the character's voice. Currently only supports Chinese voicelines because I got the pre-trained voice model from the web, reserved my kidney for the iPhone instead of the latest NVIDIA graphics card.
 
-一款基于《原神》角色的Discord聊天机器人，利用g4f和VITS生成聊天响应以及角色的声音。目前只支持中文语音线因为我从网上别人那里偷来了训练过的语音模型，将我的肾脏保留给了iPhone而不是最新的NVIDIA显卡。
+一款基于《原神》角色的Discord聊天机器人，利用g4f和VITS生成聊天响应以及角色的声音。目前只支持中文语音线因为语音模型是我从网上别人那里拿来的，将我的肾脏保留给了iPhone而不是最新的NVIDIA显卡。
 
 ## Demo
 
