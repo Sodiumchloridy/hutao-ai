@@ -1,6 +1,6 @@
 
-# Hutao Voice
-A Discord chatbot based on characters from Genshin Impact that utilizes g4f and VITS to generate chat responses along with the character's voice. Currently only supports Chinese voicelines because I got the pre-trained voice model from the web, reserved my kidney for the iPhone instead of the latest NVIDIA graphics card.
+# Hutao AI
+A text-based and voice-enabled AI for Discord, inspired by Hu Tao from Genshin Impact that utilizes g4f and VITS to generate chat responses along with the character's voice. Currently only supports Chinese voicelines because I got the pre-trained voice model from the web, reserved my kidney for the iPhone instead of the latest NVIDIA graphics card.
 
 一款基于《原神》角色的Discord聊天机器人，利用g4f和VITS生成聊天响应以及角色的声音。目前只支持中文语音线因为语音模型是我从网上别人那里拿来的，将我的肾脏保留给了iPhone而不是最新的NVIDIA显卡。
 
@@ -21,8 +21,8 @@ Clone and setup hutao-voice with pip. Python 3.8 is required, or Miniconda 3 for
 
 
 ```bash
-  git clone https://github.com/Sodiumchloridy/hutao-voice.git
-  cd hutao-voice
+  git clone https://github.com/Sodiumchloridy/hutao-ai.git
+  cd hutao-ai
   pip install -r "requirements.txt"
   cd monotonic_align
   python setup.py build_ext --inplace
@@ -48,9 +48,10 @@ Now your Discord Bot should be up and running!
 现在你的 Discord 机器人应该已经准备就绪并运行了！
 ## Usage/Examples
 
-The usage of the bot varies by the character's voice that you've chosen. As for the default with `胡桃` (Hu Tao) being chosen set as the `speaker`, an example will be: "胡桃 good morning!" However, the bot should reply only in Chinese as tweaked, this is not a bug, it's a feature, trust.
+The usage of the bot varies by the character's voice that you've chosen, the prefix to summmon Hu Tao is determined by the chosen `speaker`. As for the default with `胡桃` (Hu Tao) being chosen set as the `speaker`, an example will be: "胡桃 good morning!" However, the bot should reply only in Chinese as tweaked, this is not a bug, it's a feature, trust.
 
-关于机器人的使用方式会根据你选择的角色的声音而有所不同。对于默认选择 `胡桃` 作为 `speaker` 的情况，一个示例会是："胡桃 早安！" 但胡桃应该只以中文回复。
+该机器人的使用方式取决于您选择的语音角色，召唤胡桃的前缀取决于所选的 `speaker`。例如，默认情况下选择 `speaker` 为 `胡桃`，则可以使用 “胡桃 早上好” 作为示例。但是，经过调整后，机器人只会用中文回复。请放心，这不是错误，而是特性 XD。
+
 ## Appendix
 
 The voice synthesizer is defaulted to use CPU instead of your dedicated graphics card for processing. You may tweak the code to use the CUDA cores from your graphcis card for a much faster performance.
