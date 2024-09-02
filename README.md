@@ -27,6 +27,7 @@ Microsoft C++ Build Tools: https://visualstudio.microsoft.com/visual-cpp-build-t
   git clone https://github.com/Sodiumchloridy/hutao-ai.git
   cd hutao-ai
   pip install -r "requirements.txt"
+  conda install -c conda-forge compilers
   cd monotonic_align
   python setup.py build_ext --inplace
 ```
